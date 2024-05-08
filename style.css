@@ -5,8 +5,8 @@ padding: 0;
 }
 .cabeçalho
 {
-background-color: #BDEDFF;
-color:aqua
+background-color: #f5f0f0;
+color:rgb(236, 234, 234)
 display: flex;
 justify-content: space-around;
 align-items: center;
